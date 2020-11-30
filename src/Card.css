@@ -1,0 +1,40 @@
+.card__bottom{
+    background-color: #CAEAE9;
+    max-width: 40vh;
+    margin-left: 20vw;
+    padding: 40px 40px;
+    color: #187E75;
+    margin-top: 5vh;
+    position: absolute;
+    left: 150px;
+}
+
+.card__bottom > h2 {
+    text-transform: uppercase;
+    color: #187E75;
+    padding-bottom: 3vh;
+}
+.card__text{
+    line-height: 30px;
+}
+.boy{
+    width: 70vw;
+    height: auto;
+    margin-left: 18vw;
+    position: relative;
+    padding-top: 7vh;
+}
+
+.plane{
+    width: 20vw;
+    position: absolute;
+    right: 350px;
+    bottom: -50px;
+}
+
+.tick{
+    border-radius: 50%;
+    background-color: #187E75;
+    color: #CAEAE9;
+    padding: 0 2.5px;
+}

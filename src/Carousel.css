@@ -1,0 +1,35 @@
+.carousel{
+    display: flex;
+    justify-content: space-between;
+    max-width: 70vw;
+    padding: 4vh 0;
+    margin: auto;
+}
+
+.carousel__main{
+    background-color: white ;
+    width: 67vw;
+    margin: 5vh auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 20px #add5d8;
+   
+}
+
+.carousel__title{
+    display: flex;
+    justify-content: space-between;
+}
+  .card > img {
+      height: 100px;
+      object-fit: contain;
+  }
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 0;
+    background-color: white;
+  }
+
+  .arrow{
+      width: 15px;
+  }

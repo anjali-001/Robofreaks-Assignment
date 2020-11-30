@@ -1,0 +1,7 @@
+.landing{
+    display: flex;
+    justify-content: space-around;
+    max-width:73vw;
+    margin: 0 auto 3vh auto;
+    
+}
